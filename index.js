@@ -280,4 +280,4 @@ message.react("✅");
 
 })
 
-Client.login("NDk2MTAwNzAzNTg0OTExMzYw.Dpbm6g.wnaEJN6eQriazVdCgvjIR6JcRC0")
+Client.login()
